@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+<!-- Include two markdown files -->
+
+<div class="home-row">
+  <div class="column-left">
+    {% capture announcements %}{% include announcements.md %}{% endcapture %}
+    {{ announcements | markdownify }}
+  </div>
+  <div class="column-right">
+    {% capture news %}{% include news.md %}{% endcapture %}
+    {{ news | markdownify }}
+  </div>
+</div>
