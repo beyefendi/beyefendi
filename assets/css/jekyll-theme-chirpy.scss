@@ -1,0 +1,32 @@
+---
+---
+
+/* prettier-ignore */
+@use 'main
+{%- if jekyll.environment == 'production' -%}
+  .bundle
+{%- endif -%}
+';
+
+/* append your custom style below */
+
+/* talks.html rounded images */
+.talk-img {
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+/* index.html divide page into two columns */
+.home-row {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.column-left {
+  flex: 0 0 70%;
+}
+
+.column-right {
+  flex: 0 0 30%;
+  padding-left: 20px;
+}
