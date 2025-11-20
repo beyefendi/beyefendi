@@ -18,10 +18,8 @@ PhD
     2025 | Anton Israelsson | RISE & Uppsala University
 {: reversed="reversed"}
 
-Masters
+Masters [⛓️‍💥](https://www.diva-portal.org/smash/resultList.jsf?dswid=-4097&query=emre+süren)
 -------
-
-[](https://www.diva-portal.org/smash/resultList.jsf?dswid=-4097&query=emre+süren)
 
 1.  **Vulnerability research of mobile applications commonly used in Sweden**  
     2025 - | Rahila Shamrin | KTH
