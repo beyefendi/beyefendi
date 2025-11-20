@@ -22,16 +22,12 @@ Technical Program Committee
 Reviewer
 --------
 
-* [**World Wide Web**](https://link.springer.com/journal/11280)  
-  2025
-* [**Journal of Computer Virology and Hacking Techniques (JCVHT)**](https://link.springer.com/journal/11416)  
-  2025
-* [**IEEE Security & Privacy (S&P)**](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8013)  
-  2023
-* [**Information Security Journal: A global perspective (ISJGP)**](https://www.tandfonline.com/toc/uiss20/current)  
-  2023
-* [**International Journal of Critical Infrastructure Protection (IJCIP)**](https://www.journals.elsevier.com/international-journal-of-critical-infrastructure-protection)  
-  2022
+2025 | [**World Wide Web**](https://link.springer.com/journal/11280)  
+2025 | [**Journal of Computer Virology and Hacking Techniques (JCVHT)**](https://link.springer.com/journal/11416)  
+2023 | [**IEEE Security & Privacy (S&P)**](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8013)  
+2023 | [**Information Security Journal: A global perspective (ISJGP)**](https://www.tandfonline.com/toc/uiss20/current)  
+2022 | [**International Journal of Critical Infrastructure Protection (IJCIP)**](https://www.journals.elsevier.com/international-journal-of-critical-infrastructure-protection)  
+  
 
 Administrative Service & Membership
 -----------------------------------
